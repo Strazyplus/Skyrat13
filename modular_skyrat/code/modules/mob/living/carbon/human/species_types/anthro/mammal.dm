@@ -15,5 +15,5 @@
 	liked_food = MEAT | FRIED
 	disliked_food = TOXIC
 	//Skyrat change - blood
-	bloodtypes = list("A+", "A-", "B+", "B-", "AB+", "AB-", "O+", "O-")
+	bloodtypes = list("A+", "A-", "B+", "B-", "AB+", "AB-", "O+", "O-", "BUG")
 	//
